@@ -25,11 +25,11 @@ if plate_no == "KA 05 NB 1786":
     print("<body style='padding: 40px;'>")
     print('<h1 style="color:#df405a;" >Output</h1>')
     print('''<pre>
-    Registration Name : RAHUL RATHOD 
+    Registration Name : Malay Kaushik 
     License No : 12345677889
     Make / Model : BABA HYUNDAI / VERNA
-    Registration Date : 1/12/2011
-    Registering Authority : UJJAIN , INDIA
+    Registration Date : 1/12/2020
+    Registering Authority : JAIPUR , INDIA
     Vehicle Class : MCWG
     Fuel Type : CNG
     Engine No : IVK3N1734538
@@ -43,7 +43,7 @@ elif plate_no == "MH:01.CT.5470":
     print("<body style='padding: 40px;'>")
     print('<h1 style="color:#df405a;" >Output</h1>')
     print('''<pre>
-    Registration Name : ANKITA LUDBE
+    Registration Name : ABHISHEK SHARMA
     License No : 098363357292
     Make / Model : HONDA / CITY
     Registration Date : 1/12/2014
@@ -61,7 +61,7 @@ elif plate_no == "MH 12 HZ 0148":
     print("<body style='padding: 40px;'>")
     print('<h1 style="color:#df405a;" >Output</h1>')
     print('''<pre>
-    Registration Name : AMAN PANWAR
+    Registration Name : AMIT KUMAR
     License No : 735382528936
     Make / Model : MARUTI SUZUKI / ALTO800
     Registration Date : 1/12/2014
